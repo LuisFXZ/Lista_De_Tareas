@@ -30,6 +30,7 @@ class SplashPage extends StatelessWidget {
           const H1('Lo nuevox3'),
           const H1('Lo nuevox6'),
           const H1('Lo nuevonuevo'),
+          const H1('Lo nuevodelomejor'),
           const SizedBox(height: 21),
           GestureDetector(
             onTap: () {

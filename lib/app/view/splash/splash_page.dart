@@ -25,6 +25,7 @@ class SplashPage extends StatelessWidget {
           const H1('Esta es una nueva tarea'),
           const H1('Esta no es una nueva tarea'),
           const H1('Esta es una nueva por 2 tarea'),
+          const H1('Lo nuevo'),
           const SizedBox(height: 21),
           GestureDetector(
             onTap: () {
